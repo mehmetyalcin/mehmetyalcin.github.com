@@ -1,4 +1,4 @@
-yalcin484.github.com
+mehmetyalcin.github.com
 ====================
 
 Personal Web Page
